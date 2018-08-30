@@ -1,0 +1,8 @@
+WifiDetailsIntent how to connect
+WifiDetailsIntent how do I connect
+
+
+HelpIntent help
+HelpIntent help me
+
+
